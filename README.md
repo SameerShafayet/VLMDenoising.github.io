@@ -3,7 +3,7 @@
 
 This is the repository that contains source code for the our paper (https://VLMDenoising.github.io).
 
-If you find Nerfies useful for your work please cite:
+If you our work useful for your work please cite:
 ```
 ```
 
